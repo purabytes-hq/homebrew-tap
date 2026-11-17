@@ -1,6 +1,6 @@
 cask "firmacr" do
-  version "1.3.0"
-  sha256 "98b00d79bd9050271b98bd47b9ae7a1bc17367438e0a43359c6aa6c0645df2cf"
+  version "1.3.1"
+  sha256 "a15f141b9f0b33e56ec64ec3d19f7623b684214de721c238bf444994f468eb49"
 
   url "https://github.com/purabytes-hq/firma-cr-releases/releases/download/v#{version}/FirmaCR.dmg"
   name "FirmaCR"
