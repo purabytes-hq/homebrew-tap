@@ -2,7 +2,7 @@ cask "firmacr" do
   version "1.3.0"
   sha256 "98b00d79bd9050271b98bd47b9ae7a1bc17367438e0a43359c6aa6c0645df2cf"
 
-  url "https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v#{version}/FirmaCR.dmg"
+  url "https://github.com/purabytes-hq/firma-cr-releases/releases/download/v#{version}/FirmaCR.dmg"
   name "FirmaCR"
   desc "Sign and verify PDFs with a Costa Rican digital-signature card"
   homepage "https://firmacr.com/"
